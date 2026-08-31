@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://PSS-Omkar.github.io/readme-d3ikki/sitemap.xml
